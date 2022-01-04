@@ -3,41 +3,37 @@
 	<spc id="1" rep="t" multi="o" anno="">
 			<mtrl id="1" mname="Amazon Prime Video - No Psn" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>Amazon Prime Video</desc>
-			<url type="121">https://github.com/LuanTeles/PS3-4K-Pro/raw/main/Xil/media/amazon_prime.png</url>
+			<url type="121">http://github.com/LuanTeles/Xil/raw/main/media/amazon_prime.png</url>
 			<data name="no-psn-amazon.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLgotIFdoZW4gdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBwcm9tcHQgYXBwZWFycywgcHJlc3MgdGhlIGJhY2sgYnV0dG9uIHRvIGJ5cGFzcyBpdC4=</data>
-			<target type="u">psgm:install?contentid=EP4183-NPEB00344_00-LOVEFILMFULL0100&amp;url=http://nopsn.com/pkg/ps3/amazon/Amazon-Instant-Video-v4.06-%5BNPEB00344%5D-NoPSN.pkg</target>
-			<cntry agelmt="0">all</cntry>
+			<target type="u">psgm:install?contentid=EP4183-NPEB00344_00-LOVEFILMFULL0100&amp;url=http://github.com/LuanTeles/Packages/releases/download/Multimedia/Amazon_Instant_Video_v4.06.pkg</target>			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" mname="Cinepolis KLIC" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>Cinépolis Klic</desc>
-			<url type="121">https://github.com/LuanTeles/PS3-4K-Pro/raw/main/Xil/media/cinepolis.png</url>
-			<target type="u">psgm:install?contentid=UP2191-NPUP31348_00-CINEPOLISKLICPS3&amp;url=http://nopsn.com/pkg/ps3/cinepolis/Cinepolis-v1.04-%5BNPUP31348%5D.pkg</target>
-			<cntry agelmt="0">mx</cntry>
+			<url type="121">http://github.com/LuanTeles/Xil/raw/main/media/cinepolis.png</url>
+			<target type="u">psgm:install?contentid=UP2191-NPUP31348_00-CINEPOLISKLICPS3&amp;url=http://github.com/LuanTeles/Packages/releases/download/Multimedia/Cinepolis_v1.04.pkg</target>			<cntry agelmt="0">mx</cntry>
 			<lang>3</lang>
 		</mtrl>
 		<mtrl id="3" mname="CrunchyRoll - No Psn" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>CrunchyRoll</desc>
-			<url type="121">https://github.com/LuanTeles/PS3-4K-Pro/raw/main/Xil/media/crunchyroll.png</url>
+			<url type="121">http://github.com/LuanTeles/Xil/raw/main/media/crunchyroll.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=UP2074-NPUP10027_00-2012070500000001&amp;url=http://nopsn.com/pkg/ps3/crunchyroll/Crunchyroll-v1.30-%5BNPUP10027%5D-NoPSN.pkg</target>
+			<target type="u">psgm:install?contentid=UP2074-NPUP10027_00-2012070500000001&amp;url=http://github.com/LuanTeles/Packages/releases/download/Multimedia/Crunchyroll_v1.30.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" mname="Netflix - Official - No Longer asks for PSN" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>Netflix</desc>
-			<url type="121">https://github.com/LuanTeles/PS3-4K-Pro/raw/main/Xil/media/netflix.png</url>
+			<url type="121">http://github.com/LuanTeles/Xil/raw/main/media/netflix.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=UT0007-NPUP00030_00-NETFLIXRIGEL01NA&amp;url=http://nopsn.com/pkg/ps3/netflix/Netflix-v2.34-%5BNPUP00030%5D.pkg</target>
-			<cntry agelmt="0">all</cntry>
+			<target type="u">psgm:install?contentid=UT0007-NPUP00030_00-NETFLIXRIGEL01NA&amp;url=http://github.com/LuanTeles/Packages/releases/download/Multimedia/Netflix_v2.36.pkg</target>			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" mname="Youtube - No Psn" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>YouTube</desc>
-			<url type="121">https://github.com/LuanTeles/PS3-4K-Pro/raw/main/Xil/media/youtube.png</url>
+			<url type="121">http://github.com/LuanTeles/Xil/raw/main/media/youtube.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=EP4381-NPEB01229_00-YOUTUBE000000001&amp;url=http://nopsn.com/pkg/ps3/youtube/Youtube-v3.03-%5BNPEB01229%5D-NoPSHEN.pkg</target>
-			<cntry agelmt="0">all</cntry>
+			<target type="u">psgm:install?contentid=EP4381-NPEB01229_00-YOUTUBE000000001&amp;url=http://github.com/LuanTeles/Packages/releases/download/Multimedia/Youtube_v3.03.pkg</target>			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 	</spc>
