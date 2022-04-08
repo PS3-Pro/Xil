@@ -4,7 +4,7 @@
 Custom Xil Items for PS3™ 4K Pro.
 
 # What is it?
-Custom XMB icons that are shown in XMB categories (Music/Video/TV/Game/PSN) when connected to the internet, when the icon is selected, it will launch the application (if installed), otherwise it will prompt you to download it.
+Custom XMB icons that are shown on XMB™ categories (Music/Video/TV/Game/PSN) when connected to the internet, when the icon is selected, it will launch the application (if installed), otherwise it will prompt you to download it.
 
 # Music Category
 Visualizer™ </br>
@@ -15,11 +15,11 @@ SensMe™ (Spotify)</br>
 
 
 # TV Category
-Amazon Prime Video</br>
-Cinépolis Klic</br>
-CrunchyRoll</br>
-Netflix</br>
-YouTube</br>
+Amazon Prime Video.</br>
+Cinépolis Klic.</br>
+CrunchyRoll.</br>
+Netflix.</br>
+YouTube.</br>
 
 ![image](https://user-images.githubusercontent.com/74815634/148670415-850ca3d5-c29d-46ff-96ca-faac89d0386e.png)
 
