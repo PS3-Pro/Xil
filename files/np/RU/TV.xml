@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx ver="1.0" rev="1" lt-id="1" anno="max-age=21600" min-sys-ver="">
 	<spc id="1" rep="t" multi="o" anno="">
-			<mtrl id="1" mname="Amazon Prime Video - No Psn" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
+		<mtrl id="0" mname="PlayStation®TV" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
+			<desc>PlayStation®TV</desc>
+			<url type="121">http://github.com/PS3-4K-Pro/Xil/raw/main/media/playstation_tv.png</url>
+			<target type="u">psgm:install?contentid=CFWPS3-PS3ONLINE_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/PlayStation-TV/releases/download/PlayStationTV/PlayStationTV.pkg</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="1" mname="Amazon Prime Video - No Psn" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>Amazon Prime Video</desc>
 			<url type="121">http://github.com/PS3-4K-Pro/Xil/raw/main/media/amazon_prime.png</url>
 			<data name="no-psn-amazon.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLgotIFdoZW4gdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBwcm9tcHQgYXBwZWFycywgcHJlc3MgdGhlIGJhY2sgYnV0dG9uIHRvIGJ5cGFzcyBpdC4=</data>
