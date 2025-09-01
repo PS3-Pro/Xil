@@ -3,17 +3,17 @@
 	<spc id="1" rep="t" multi="o" anno="">
 		<mtrl id="1" mname="Visualizer™" from="2010-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2010-01-01T00:00:00.000Z" anno="">
 			<desc>Visualizer™</desc>
-			<url type="121">http://github.com/PS3-4K-Pro/Xil/raw/main/media/visualizer.png</url>
+			<url type="121">https://github.com/PS3-Pro/Xil/raw/main/media/visualizer.png</url>
 			<data name="activate.txt" type="120">Tm90aWNlIQoKLSBBY3RpdmUgdGhlIHN5c3RlbSB0byB1bmxvY2sgdGhpcyBhcHBsaWNhdGlvbi4=</data>
-			<target type="u">psgm:install?contentid=EP0743-NPEB01864_00-PJ4AMVISFULL0001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Visualizer_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=EP0743-NPEB01864_00-PJ4AMVISFULL0001&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Visualizer_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" mname="SensMe™" from="2010-01-01T00:00:00.000Z" until="2022-12-31T23:59:00.000Z" lastm="2010-01-02T00:00:00.000Z" anno="">
 			<desc>SensMe™</desc>
-			<url type="121">http://github.com/PS3-4K-Pro/Xil/raw/main/media/sens_me.png</url>
+			<url type="121">https://github.com/PS3-Pro/Xil/raw/main/media/sens_me.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
-			<target type="u">psgm:install?contentid=EP4950-NPEB02222_00-SPOTIFY0FULL0000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Spotify_v1.22.pkg</target>
+			<target type="u">psgm:install?contentid=EP4950-NPEB02222_00-SPOTIFY0FULL0000&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Spotify_v1.22.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
